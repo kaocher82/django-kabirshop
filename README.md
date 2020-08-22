@@ -1,8 +1,16 @@
 # django-shupp-ecommerce
+
+Web application based on Data driving 
+Import data file of products 
+Website will automatically processing
+
+
+
 Django eCommerce website 
 
 
 Create and activate fresh Python virtualenv
+
 
 virtualenv env 
 
