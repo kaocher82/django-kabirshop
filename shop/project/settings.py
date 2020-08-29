@@ -23,7 +23,7 @@ BASE_DIR = root()
 
 DEBUG = env('DEBUG')
 
-env.read_env(os.path.join(BASE_DIR, 'shuup-project-template', '.env'))
+env.read_env(os.path.join(BASE_DIR, 'shop', '.env'))
 
 SECRET_KEY = env('SECRET_KEY', default='xxx')
 
